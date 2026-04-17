@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-This portfolio showcases academic and applied projects completed through my Management Information Systems coursework, with a focus on data analysis and geospatial decision-making.
+This portfolio showcases academic and applied projects focused on data analysis, business decision-making, and geospatial analysis through Management Information Systems coursework.
 
 
 ## Projects
